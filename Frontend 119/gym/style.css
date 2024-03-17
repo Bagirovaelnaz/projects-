@@ -1,0 +1,87 @@
+* {
+  margin: 7px 15px;
+}
+
+h2 {
+  font-family: "Poiret One", sans-serif;
+  text-align: center;
+  font-weight: 1000;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icons {
+  display: flex;
+  gap: 15px;
+}
+.section1 {
+  background-image: url(gym3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 670px;
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-weight: 900;
+  text-align: center;
+  column-gap: 50px;
+  padding: 300px;
+}
+h3 {
+  text-align: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+#salam1 {
+  color: white;
+  background-color: #fb5607;
+}
+button {
+  padding: 6px;
+  border-radius: 3px;
+  color: rgb(37, 36, 36);
+}
+.section2 {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
+#salam2 {
+  color: white;
+  background-color: #fb5607;
+  border-radius: 19px;
+  margin: 10px 600px;
+  padding: 10px;
+}
+.container {
+  background-image: url(nikeee.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  background-color: #dad7cd;
+}
+#salam3 {
+  color: white;
+  background-color: #fb5607;
+  border-radius: 19px;
+  margin: 15px 600px;
+  padding: 7px;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  background-color: #edf2f4;
+}

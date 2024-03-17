@@ -1,0 +1,37 @@
+body{
+    background-color: #001845;
+}
+.div{
+    background-color: #023e7d;
+    border: 15px;
+    border-radius: 100px;
+    text-align: center;
+    height: 340px;
+    width: 360px;
+    margin: 140px 150px 150px 490px;
+
+}
+#icon-star{
+    padding: 7px;
+    border-radius: 15px;
+    margin: 5x;
+    background-color: #003554;
+    text-align: initial;
+}
+p{
+    white-space:pre-wrap;
+
+}
+button{
+    padding: 6px 8px;
+    border-radius: 18px;
+    margin: 6px;
+    background-color: #001845;
+    color: azure;
+    width: 35px;
+}
+#submit{
+    background-color: #f77f00;
+    color: azure;
+    width: 150px;
+}

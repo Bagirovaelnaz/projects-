@@ -1,0 +1,145 @@
+* {
+  margin: 3px 10px;
+  font-family: "Merriweather", serif;
+}
+
+.nike {
+  box-shadow: 10px 5px 5px #f8f9fa;
+}
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#logo {
+  font-size: 20px;
+  margin: 7px 7px 15px 10px;
+  background-color: black;
+  font-weight: bold;
+}
+hr {
+  margin: 0px;
+  color: black;
+  display: none;
+}
+
+.part1 {
+  gap: 27px;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.part2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 27px;
+  background-color: black;
+}
+.part3 {
+  background-color: #0466c8;
+  color: white;
+  display: flex;
+  gap: 7px;
+  width: 15%;
+  height: 50px;
+}
+.search {
+  color: #6c757d;
+  display: flex;
+  justify-content: space-around;
+  margin: 14px 110px 15px 15px;
+}
+.star {
+  color: #ffb703;
+}
+#price {
+  color: #0466c8;
+  font-weight: bold;
+}
+#nike {
+  font-weight: bold; /*oxumur */
+}
+.section1 {
+  display: flex;
+  flex-direction: row;
+  background-color: #f5f3f4;
+  font-size: 23px;
+}
+.writings {
+  margin-left: 30px;
+  gap: 30px;
+  padding: 40px;
+}
+button {
+  color: white;
+  background-color: #0466c8;
+  border-radius: 18px;
+  padding: 8px;
+  border-color: #0466c8;
+}
+select {
+  padding: 5px;
+}
+.txt {
+  width: 100%;
+  height: auto;
+  padding: 0 60px;
+  box-sizing: border-box;
+}
+#yazi {
+  font-size: 30px;
+  text-align: center;
+}
+#yazi2 {
+  text-align: center;
+  margin: 20px 20px 50px 40px;
+  font-size: 22px;
+}
+.section2 {
+  background-image: url(nike5.jpg);
+  background-repeat: no-repeat;
+  height: 450px;
+  background-color: #2b2d42;
+  background-size: contain;
+  color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  width: 80%;
+  height: 200px;
+  border: 1px;
+  padding: 10px;
+  font-size: 24px;
+}
+#video {
+  background-color: #2b2d42;
+}
+
+h2 {
+  text-align: center;
+}
+.sp {
+  text-align: center;
+  padding: 15px;
+}
+.section3 {
+  margin: 20px 20px 50px 40px;
+  align-items: center;
+}
+.shoes {
+  display: flex;
+  flex-direction: row;
+  gap: 250px;
+}
+#sp2 {
+  text-align: center;
+  color: #6c757d;
+  display: flex;
+  justify-content: center;
+  /* OXUMUR */
+}

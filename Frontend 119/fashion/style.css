@@ -1,0 +1,120 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 45px;
+
+}
+.top{
+    font-family: 'Allura', cursive;
+    font-size: 28px;
+}
+.main{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-size: 20px;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.container{
+    margin: 10px 45px;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Playfair Display', serif;
+}
+img{
+    height: 105px;
+    width: 90px;
+}
+.dress{
+    height: 300px;
+    width: 277px;
+}
+p{
+    font-size: 25px;
+   
+}
+.sizes{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+}
+span{
+  display: flex;
+  column-gap: 38px;
+}
+button{
+    display: flex;
+    padding: 12px 14px;
+    justify-content: center;
+    background-color: #6d4c3d;
+    color: white;
+    width: 130px;
+    text-decoration: double;
+}
+.share{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.writings{
+    margin: 0px 40px 20px 20px;
+    align-items: center;
+    justify-content: center;
+}
+.share{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    text-align: center;
+}
+
+.section{
+    font-family: 'Playfair Display', serif;
+    
+}
+.look{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+    text-transform: uppercase;
+    align-items: center;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+}
+img{
+    box-shadow:10px 5px 5px #f5ebe0;
+}
+.section2{
+    margin: 40px 40px 60px 60px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.collection{
+    margin: 0px 15px 90px 70px;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.part1{
+    display: flex;
+    flex-direction: column;
+}
+.part2{
+    display: flex;
+    flex-direction: column;
+}
+.part3{
+    display: flex;
+    flex-direction: column;
+}
